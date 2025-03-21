@@ -14,7 +14,7 @@ This repository contains a Magisk module to replace the default Samsung boot ani
 
 # Custom files 
 
-You can add your own qmg files to the zip . just make sure to chnage the permisions. 
+You can add your own qmg files to the zip . just make sure to change the permisions. 
 This wont overwrite your system files !
 
 If anyone has custom qmg files , ill make more modules with them and add them to this repo.
