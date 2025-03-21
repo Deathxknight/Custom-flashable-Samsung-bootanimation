@@ -19,3 +19,7 @@ This wont overwrite your system files !
 
 If anyone has custom qmg files , ill make more modules with them and add them to this repo.
 This is bearbones yes....in new to github
+
+
+Making the qmg files from scratch:
+https://xdaforums.com/t/tutorial-samsung-qmg-boot-animation-creation-an-easy-guide.3255114/
